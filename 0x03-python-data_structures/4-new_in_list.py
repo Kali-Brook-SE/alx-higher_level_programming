@@ -9,5 +9,4 @@ def new_in_list(my_list, idx, element):
     for i in range(0, n):
         if idx == i:
             new[i] = element
-            return new
-        
+            return new        
